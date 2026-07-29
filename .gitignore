@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.git/
+*.zip
+.env
+.env.local
+.vscode/
+.idea/
+*.log
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/captures/
+android/.cxx/
